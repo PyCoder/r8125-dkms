@@ -1,7 +1,7 @@
 #!/bin/bash
 
 PKG_NAME="r8125"
-PKG_VER="9.003.05"
+PKG_VER="9.004.01"
 DST_DIR="/usr/src/"
 
 cp -a $PKG_NAME-$PKG_VER $DST_DIR

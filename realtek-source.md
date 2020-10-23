@@ -1,3 +1,3 @@
 # Check
 - http://www.realtekl.com/
-- https://www.realtek.com/en/directly-download?downloadid=ec556a5e1535433cef169c00164e4539
+- https://www.realtek.com/en/component/zoo/category/network-interface-controllers-10-100-1000m-gigabit-ethernet-pci-express-software
